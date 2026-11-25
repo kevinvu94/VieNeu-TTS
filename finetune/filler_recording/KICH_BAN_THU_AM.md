@@ -1,0 +1,154 @@
+# Kịch bản thu âm filler (120 câu)
+
+Thu đúng từng chữ, giọng nói chuyện tự nhiên (filler đọc nhẹ, nhanh, không nhấn). Mỗi dòng = **một file** đặt tên theo cột *File*, dài 3–12 giây, chừa ~0.3 giây im lặng đầu/cuối. Cùng micro, cùng phòng với 76 clip cũ. Nên chia 6 đợt × 20 câu, nghỉ giữa các đợt để giọng không bị mệt/đổi.
+
+
+## Đợt 1 (câu 1–20)
+
+| ☐ | File | Câu cần đọc |
+|---|---|---|
+| ☐ | clip077.wav | À, hôm nay mình có chuyện này muốn kể cho bạn nghe nha. |
+| ☐ | clip078.wav | À, chiều nay nhớ mang theo ô đi nhá. |
+| ☐ | clip079.wav | À, mình đã nhắc bạn từ hôm qua rồi mà. |
+| ☐ | clip080.wav | À, là cái quán cà phê gần nhà mình ấy. |
+| ☐ | clip081.wav | À, bài này khó hơn mình tưởng nhiều cơ. |
+| ☐ | clip082.wav | À, cuối tuần này mình rảnh, mình đi chơi nha. |
+| ☐ | clip083.wav | À, đọc xong thì nhớ nhắn lại cho mình nhá. |
+| ☐ | clip084.wav | À, cái đó mình có làm đâu mà. |
+| ☐ | clip085.wav | Ừ, là bộ phim mà tụi mình xem hôm trước ấy. |
+| ☐ | clip086.wav | Ừ, hôm qua mình học tới tận khuya cơ. |
+| ☐ | clip087.wav | Ừ, mình đồng ý với cách làm đó nha. |
+| ☐ | clip088.wav | Ừ, để mình kiểm tra lại rồi báo bạn nhá. |
+| ☐ | clip089.wav | Ừ, mình biết là khó nhưng bạn làm được mà. |
+| ☐ | clip090.wav | Ừ, chính là người bạn đi cùng mình hôm đó ấy. |
+| ☐ | clip091.wav | Ừ, món này ngon lắm cơ. |
+| ☐ | clip092.wav | Ừ, mai gặp nhau ở chỗ cũ nha. |
+| ☐ | clip093.wav | Nói chung là bạn cứ yên tâm, mọi thứ đã sẵn sàng rồi nhá. |
+| ☐ | clip094.wav | Nói chung là mình thấy cách này ổn mà. |
+| ☐ | clip095.wav | Nói chung là chuyện hôm trước ấy, mình không để bụng đâu. |
+| ☐ | clip096.wav | Nói chung là việc này mất nhiều thời gian hơn dự kiến cơ. |
+
+## Đợt 2 (câu 21–40)
+
+| ☐ | File | Câu cần đọc |
+|---|---|---|
+| ☐ | clip097.wav | Nói chung là bạn nên bắt đầu từ những điều đơn giản nha. |
+| ☐ | clip098.wav | Nói chung là cứ thử một lần rồi tính tiếp nhá. |
+| ☐ | clip099.wav | Nói chung là ai cũng từng gặp khó khăn như vậy mà. |
+| ☐ | clip100.wav | Nói chung là cái app mình hay dùng ấy, nó cập nhật rồi. |
+| ☐ | clip101.wav | Cơ mà mình thấy phương án này rủi ro hơn nhiều cơ. |
+| ☐ | clip102.wav | Cơ mà bạn đừng lo, mình sẽ hỗ trợ bạn nha. |
+| ☐ | clip103.wav | Cơ mà nhớ nộp bài trước thứ sáu nhá. |
+| ☐ | clip104.wav | Cơ mà mình đã thử rồi, thật sự hiệu quả mà. |
+| ☐ | clip105.wav | Cơ mà chiếc áo mình mua hôm qua ấy, hơi rộng. |
+| ☐ | clip106.wav | Cơ mà thời tiết hôm nay lạnh hơn mình nghĩ cơ. |
+| ☐ | clip107.wav | Cơ mà bạn đừng bỏ cuộc giữa chừng nha. |
+| ☐ | clip108.wav | Cơ mà lần sau đến sớm một chút nhá. |
+| ☐ | clip109.wav | Thực ra mình cũng chẳng giỏi hơn bạn đâu mà. |
+| ☐ | clip110.wav | Thực ra là chuyện về dự án mới ấy, vẫn chưa chốt. |
+| ☐ | clip111.wav | Thực ra mình đã chuẩn bị từ lâu cơ. |
+| ☐ | clip112.wav | Thực ra bạn không cần lo lắng quá nha. |
+| ☐ | clip113.wav | Thực ra cách này nhanh hơn, bạn thử nhá. |
+| ☐ | clip114.wav | Thực ra mình đã nói với bạn rồi mà. |
+| ☐ | clip115.wav | Thực ra cuốn sách mình cho bạn mượn ấy, mình cần lại. |
+| ☐ | clip116.wav | Thực ra chuyến đi đó vui hơn mình nghĩ cơ. |
+
+## Đợt 3 (câu 41–60)
+
+| ☐ | File | Câu cần đọc |
+|---|---|---|
+| ☐ | clip117.wav | Mình sẽ gửi tài liệu cho bạn trong tối nay nha. |
+| ☐ | clip118.wav | Bạn nhớ uống đủ nước mỗi ngày nha. |
+| ☐ | clip119.wav | Đừng thức khuya quá, hại sức khỏe lắm nhá. |
+| ☐ | clip120.wav | Làm xong việc nào thì đánh dấu việc đó nhá. |
+| ☐ | clip121.wav | Bạn làm đúng rồi mà. |
+| ☐ | clip122.wav | Mình đã bảo là đơn giản thôi mà. |
+| ☐ | clip123.wav | Cái chỗ bán bánh mì mình hay ăn sáng ấy. |
+| ☐ | clip124.wav | Người hay giúp mình sửa máy tính ấy. |
+| ☐ | clip125.wav | Cuối tuần vừa rồi vui lắm cơ. |
+| ☐ | clip126.wav | Bạn đừng nghĩ nó dễ, khó lắm cơ. |
+| ☐ | clip127.wav | Sáng nay mình dậy sớm để chạy bộ quanh hồ. |
+| ☐ | clip128.wav | Bạn có muốn uống cà phê trước khi họp không? |
+| ☐ | clip129.wav | Mình vừa đọc xong một cuốn sách rất hay về thói quen. |
+| ☐ | clip130.wav | Hôm nay công việc nhiều nên mình về hơi muộn. |
+| ☐ | clip131.wav | Bạn thấy kế hoạch này có hợp lý không? |
+| ☐ | clip132.wav | Tối qua mình nấu một nồi canh chua cho cả nhà. |
+| ☐ | clip133.wav | Chúng ta nên bắt đầu từ phần dễ nhất trước. |
+| ☐ | clip134.wav | Mình sẽ gửi lại bản chỉnh sửa vào chiều nay. |
+| ☐ | clip135.wav | Cảm ơn bạn đã dành thời gian lắng nghe mình. |
+| ☐ | clip136.wav | Hẹn gặp lại bạn vào buổi học tiếp theo. |
+
+## Đợt 4 (câu 61–80)
+
+| ☐ | File | Câu cần đọc |
+|---|---|---|
+| ☐ | clip137.wav | À, mình quên nói với bạn là sáng mai lớp học dời sang tám giờ rưỡi nha. |
+| ☐ | clip138.wav | À, cái bạn hôm qua mình giới thiệu ấy, bạn ấy đồng ý đi cùng tụi mình rồi. |
+| ☐ | clip139.wav | À, mình nghĩ là nên chia việc ra làm từng phần nhỏ thì sẽ đỡ áp lực hơn nhá. |
+| ☐ | clip140.wav | À, hồi nãy mình tìm được một quán ăn rất ngon, để mình gửi địa chỉ cho bạn mà. |
+| ☐ | clip141.wav | À, bạn có thể ghi lại các ý chính trước khi bắt đầu viết bài cơ. |
+| ☐ | clip142.wav | À, nếu bạn thấy mệt thì cứ nghỉ một lát rồi làm tiếp cũng được nha. |
+| ☐ | clip143.wav | À, quyển vở của bạn mình để trên bàn rồi nhá. |
+| ☐ | clip144.wav | À, chuyện lúc nãy mình nói đùa thôi, bạn đừng để ý mà. |
+| ☐ | clip145.wav | Ừ, mình cũng nghĩ vậy, làm từ từ rồi sẽ quen thôi nha. |
+| ☐ | clip146.wav | Ừ, hôm qua mình thức dậy muộn nên trễ buổi họp mất rồi cơ. |
+| ☐ | clip147.wav | Ừ, để mình hỏi lại thầy xem hạn nộp bài là khi nào nhá. |
+| ☐ | clip148.wav | Ừ, cái laptop cũ mình hay dùng ấy, giờ chạy chậm lắm. |
+| ☐ | clip149.wav | Ừ, nếu bạn đã quyết định rồi thì mình ủng hộ hết mình mà. |
+| ☐ | clip150.wav | Ừ, mình sẽ cố gắng hoàn thành trước cuối tuần này nha. |
+| ☐ | clip151.wav | Ừ, tối nay mình nấu cơm, bạn qua ăn chung luôn nhá. |
+| ☐ | clip152.wav | Ừ, chuyện đó mình nhớ rồi, bạn không cần nhắc lại đâu mà. |
+| ☐ | clip153.wav | Nói chung là mỗi ngày bạn chỉ cần dành ra ba mươi phút thôi nha. |
+| ☐ | clip154.wav | Nói chung là kết quả cuối cùng vẫn tốt hơn mình mong đợi cơ. |
+| ☐ | clip155.wav | Nói chung là bạn đừng so sánh bản thân với người khác nhiều quá nhá. |
+| ☐ | clip156.wav | Nói chung là người mà mình hay kể với bạn ấy, bạn ấy rất tốt bụng. |
+
+## Đợt 5 (câu 81–100)
+
+| ☐ | File | Câu cần đọc |
+|---|---|---|
+| ☐ | clip157.wav | Nói chung là nếu có gì khó hiểu thì cứ hỏi mình mà. |
+| ☐ | clip158.wav | Nói chung là cứ làm đều đặn thì kiểu gì cũng tiến bộ nha. |
+| ☐ | clip159.wav | Nói chung là mình thấy bạn đã cố gắng rất nhiều rồi cơ. |
+| ☐ | clip160.wav | Nói chung là chỗ mình ở bây giờ yên tĩnh hơn trước nhiều nhá. |
+| ☐ | clip161.wav | Cơ mà nếu bạn cảm thấy chưa sẵn sàng thì mình có thể chờ thêm vài hôm nha. |
+| ☐ | clip162.wav | Cơ mà cái nhà hàng mình định đặt ấy, hôm nay đóng cửa rồi. |
+| ☐ | clip163.wav | Cơ mà mình tin là bạn sẽ làm được thôi mà. |
+| ☐ | clip164.wav | Cơ mà đường hôm nay đông lắm nên bạn đi sớm một chút nhá. |
+| ☐ | clip165.wav | Cơ mà mình vẫn thấy phương án đầu tiên hợp lý hơn cơ. |
+| ☐ | clip166.wav | Cơ mà chuyện đó đâu có khó như bạn nghĩ nha. |
+| ☐ | clip167.wav | Cơ mà bài thuyết trình hôm qua của bạn rất ấn tượng ấy. |
+| ☐ | clip168.wav | Cơ mà mình không muốn làm bạn mất thời gian vì chuyện nhỏ này đâu nhá. |
+| ☐ | clip169.wav | Thực ra mình cũng từng gặp khó khăn giống bạn, nên mình hiểu cảm giác đó cơ. |
+| ☐ | clip170.wav | Thực ra bước đầu tiên là quan trọng nhất, bạn cứ bắt đầu đi nha. |
+| ☐ | clip171.wav | Thực ra mình không quá lo lắng, chỉ hơi hồi hộp một chút mà. |
+| ☐ | clip172.wav | Thực ra bộ phim mà bạn giới thiệu ấy, mình xem hai lần rồi. |
+| ☐ | clip173.wav | Thực ra bạn nói đúng, mình nên nghỉ ngơi nhiều hơn nhá. |
+| ☐ | clip174.wav | Thực ra hôm nay mình định đi sớm nhưng bị kẹt xe nha. |
+| ☐ | clip175.wav | Thực ra mình rất thích công việc này, dù đôi lúc cũng mệt cơ. |
+| ☐ | clip176.wav | Thực ra ngày mai mình có hẹn rồi, để hôm khác đi mà. |
+
+## Đợt 6 (câu 101–120)
+
+| ☐ | File | Câu cần đọc |
+|---|---|---|
+| ☐ | clip177.wav | Bạn nhớ kiểm tra lại bài trước khi nộp cho thầy nha. |
+| ☐ | clip178.wav | Mình sẽ gọi cho bạn ngay khi họp xong nha. |
+| ☐ | clip179.wav | Cuối tuần này bạn rảnh thì ghé nhà mình chơi nhá. |
+| ☐ | clip180.wav | Đi đường cẩn thận và nhắn cho mình khi tới nơi nhá. |
+| ☐ | clip181.wav | Mình nói thật mà, bạn không cần khách sáo đâu mà. |
+| ☐ | clip182.wav | Cái này mình làm theo hướng dẫn của bạn mà. |
+| ☐ | clip183.wav | Cái cửa hàng nhỏ ở góc phố mình hay mua đồ ấy. |
+| ☐ | clip184.wav | Anh bạn làm cùng công ty với mình ấy. |
+| ☐ | clip185.wav | Hôm đó trời đẹp, cả nhóm chụp được nhiều ảnh lắm cơ. |
+| ☐ | clip186.wav | Món canh bạn nấu hôm qua ngon thật sự cơ. |
+| ☐ | clip187.wav | Bạn cứ ngủ sớm đi, mọi chuyện để mai tính nha. |
+| ☐ | clip188.wav | Khi nào có kết quả, mình sẽ báo ngay cho bạn nhá. |
+| ☐ | clip189.wav | Mình biết bạn đang rất cố gắng mà. |
+| ☐ | clip190.wav | Người ngồi cạnh mình hôm qua trong quán ấy. |
+| ☐ | clip191.wav | Mỗi sáng mình thường dành mười phút để lên kế hoạch cho cả ngày. |
+| ☐ | clip192.wav | Khi học một kỹ năng mới, điều quan trọng là phải kiên trì luyện tập. |
+| ☐ | clip193.wav | Bạn thử chia nhỏ mục tiêu ra, rồi hoàn thành từng bước một. |
+| ☐ | clip194.wav | Hôm nay trời nắng đẹp, rất thích hợp để đi dạo công viên. |
+| ☐ | clip195.wav | Mình thấy việc ghi chép lại mỗi ngày giúp đầu óc rõ ràng hơn nhiều. |
+| ☐ | clip196.wav | Chúc bạn một ngày làm việc thật hiệu quả và nhiều niềm vui. |
